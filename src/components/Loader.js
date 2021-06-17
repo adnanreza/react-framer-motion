@@ -37,7 +37,6 @@ const Loader = () => {
         <>
             <motion.div
                 variants={loaderVariants}
-                animate='animationOne'
                 className='loader'
                 animate={animation}
             >
